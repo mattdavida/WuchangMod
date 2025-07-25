@@ -6,7 +6,7 @@ This mod for *Wuchang: Fallen Feathers* re-enables several hidden developer debu
 
 ## ⚠️ VERY IMPORTANT: READ BEFORE INSTALLING ⚠️
 
-* **USE AT YOUR OWN RISK.** This mod utilizes functions that were not intended for public use. It can cause bugs, break quests, or corrupt your save file.
+* **USE AT YOUR OWN RISK.** This mod utilizes functions that were not intended for public use. It can cause bugs, break quests, or corrupt your save file. -- although this hasen't happened to me at any point. I feel like its important to keep in mind.
 * **BACK UP YOUR SAVE GAME!** Before using this mod, please make a backup of your save file. I am not responsible for any lost progress.
 ***
 
