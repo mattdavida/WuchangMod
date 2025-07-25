@@ -14,7 +14,7 @@ This mod for *Wuchang: Fallen Feathers* re-enables several hidden developer debu
 
 This mod requires UE4SS to be installed for *Wuchang: Fallen Feathers*.
 
-1.  Download the latest release from the **Releases** page of this GitHub repository.
+1.  Download the latest release from the **Releases** page of their GitHub repository.
 2.  Extract the zip file.
 3.  Place the extracted `mods` folder into your game's installation directory at `.../Wuchang/Binaries/Win64/`.
 4.  The final folder structure should look like: `.../Win64/mods/DebugEnabler/main.lua`.
